@@ -1,14 +1,7 @@
-# Build and Deploy a Full Stack Social Media App | React JS, Appwrite, Tailwind CSS, React Query
-[![Social Media](https://i.ibb.co/k4BQtdP/Thumbnail.png)](https://youtu.be/_W3R2VwRyF4)
+*Modern Social Media App: (with Infinite Scroll).
+● Technology Used: HTML5, Telwind-CSS, JavaScript(ES6+), React-Js, Node-JS, MongoDb.
+● Build a fully functional stunning UI with native mobile feel Social media app. It has an
+infinite scroll system, Sign-in Sign-up system and photos like and save system. Also include
+search functionality, own profile page, drag & drop feature and an edit post page etc.
+● Similar to Instagram and also provided features of Instagram ans so on.
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-
-## Next.js 13 eBook & Course
-📚 https://resource.jsmastery.pro/nextjs-guide
-
-## Summary
-Build a modern social app with a stunning UI with a native mobile feel, a special tech stack, an infinite scroll feature, and amazing performance using React JS, Appwrite, TypeScript, and more.
-
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
